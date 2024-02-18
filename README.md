@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Admnistração
 - 🌱 Estudando HTML e CSS
-- 😄 Pronomes: ele/dele
+- 😄 Pronomes: Ele/Dele
 <div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathamKLS&show_icons=true&theme=tokyonight)
